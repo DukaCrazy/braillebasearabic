@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "braillebasearabic"
+version = "0.0.1"
+description = "A complete and extensible Unicode Braille processing library. Arabic language version"
+authors = [
+    { name = "Nagao Yuji" }
+]
+readme = "README.md"
+license = { text = "Apache-2.0" }
+requires-python = ">=3.6"
+
+dependencies = [
+    "braillebase>=0.0.12"
+]
+
+keywords = ["braille", "unicode", "accessibility", "API", "binary", "blind", "education"]
+
+[project.urls]
+Homepage = "https://github.com/DukaCrazy/braillebasearabic"
+Documentation = "https://github.com/DukaCrazy/braillebasearabic"
+Source = "https://github.com/DukaCrazy/braillebasearabic"
