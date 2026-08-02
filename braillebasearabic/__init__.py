@@ -130,3 +130,56 @@ class BrailleBaseArabic(BrailleBase):
         self.append_braille_letter("…", ["⠄", "⠄", "⠄"])
         self.append_braille_letter("———", ["⠤", "⠤", "⠤"])
         
+        #Greek
+        self.append_braille_letter("[Α]", ["⠸", "⠁"]) #2026/08/01
+        self.append_braille_letter("[Β]", ["⠸", "⠃"]) #2026/08/01
+        self.append_braille_letter("[Γ]", ["⠸", "⠛"]) #2026/08/01
+        self.append_braille_letter("[Δ]", ["⠸", "⠙"]) #2026/08/01
+        self.append_braille_letter("[Ε]", ["⠸", "⠑"]) #2026/08/01
+        self.append_braille_letter("[Ζ]", ["⠸", "⠵"]) #2026/08/01
+        self.append_braille_letter("[Η]", ["⠸", "⠸"]) #2026/08/01
+        self.append_braille_letter("[Θ]", ["⠸", "⠹"]) #2026/08/01
+        self.append_braille_letter("[Ι]", ["⠸", "⠊"]) #2026/08/01
+        self.append_braille_letter("[Κ]", ["⠸", "⠅"]) #2026/08/01
+        self.append_braille_letter("[Λ]", ["⠸", "⠇"]) #2026/08/01
+        self.append_braille_letter("[Μ]", ["⠸", "⠍"]) #2026/08/01
+        self.append_braille_letter("[Ν]", ["⠸", "⠝"]) #2026/08/01
+        self.append_braille_letter("[Ξ]", ["⠸", "⠭"]) #2026/08/01
+        self.append_braille_letter("[Ο]", ["⠸", "⠕"]) #2026/08/01
+        self.append_braille_letter("[Π]", ["⠸", "⠏"]) #2026/08/01
+        self.append_braille_letter("[Ρ]", ["⠸", "⠗"]) #2026/08/01
+        self.append_braille_letter("[Σ]", ["⠸", "⠎"]) #2026/08/01
+        self.append_braille_letter("[Τ]", ["⠸", "⠞"]) #2026/08/01
+        self.append_braille_letter("[Υ]", ["⠸", "⠥"]) #2026/08/01
+        self.append_braille_letter("[Φ]", ["⠸", "⠋"]) #2026/08/01
+        self.append_braille_letter("[Χ]", ["⠸", "⠯"]) #2026/08/01
+        self.append_braille_letter("[Ψ]", ["⠸", "⠽"]) #2026/08/01
+        self.append_braille_letter("[Ω]", ["⠸", "⠺"]) #2026/08/01
+
+        self.append_braille_letter("[α]", ["⠰", "⠁"]) #2026/08/01
+        self.append_braille_letter("[β]", ["⠰", "⠃"]) #2026/08/01
+        self.append_braille_letter("[γ]", ["⠰", "⠛"]) #2026/08/01
+        self.append_braille_letter("[δ]", ["⠰", "⠙"]) #2026/08/01
+        self.append_braille_letter("[ε]", ["⠰", "⠑"]) #2026/08/01
+        self.append_braille_letter("[ζ]", ["⠰", "⠵"]) #2026/08/01
+        self.append_braille_letter("[η]", ["⠰", "⠸"]) #2026/08/01
+        self.append_braille_letter("[θ]", ["⠰", "⠹"]) #2026/08/01
+        self.append_braille_letter("[ι]", ["⠰", "⠊"]) #2026/08/01
+        self.append_braille_letter("[κ]", ["⠰", "⠅"]) #2026/08/01
+        self.append_braille_letter("[λ]", ["⠰", "⠇"]) #2026/08/01
+        self.append_braille_letter("[μ]", ["⠰", "⠍"]) #2026/08/01
+        self.append_braille_letter("[ν]", ["⠰", "⠝"]) #2026/08/01
+        self.append_braille_letter("[ξ]", ["⠰", "⠭"]) #2026/08/01
+        self.append_braille_letter("[ο]", ["⠰", "⠕"]) #2026/08/01
+        self.append_braille_letter("[π]", ["⠰", "⠏"]) #2026/08/01
+        self.append_braille_letter("[ρ]", ["⠰", "⠗"]) #2026/08/01
+        self.append_braille_letter("[σ]", ["⠰", "⠎"]) #2026/08/01
+        self.append_braille_letter("[τ]", ["⠰", "⠞"]) #2026/08/01
+        self.append_braille_letter("[υ]", ["⠰", "⠥"]) #2026/08/01
+        self.append_braille_letter("[φ]", ["⠰", "⠋"]) #2026/08/01
+        self.append_braille_letter("[χ]", ["⠰", "⠯"]) #2026/08/01
+        self.append_braille_letter("[ψ]", ["⠰", "⠽"]) #2026/08/01
+        self.append_braille_letter("[ω]", ["⠰", "⠺"]) #2026/08/01
+        self.append_braille_letter("[ς]", ["⠰", "⠎"]) #2026/08/01
+
+        
